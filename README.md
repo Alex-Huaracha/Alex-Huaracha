@@ -3,8 +3,7 @@
 # 💫 About Me:
 - 👨‍💻 I'm Software Development Engineer
 - :school: I `graduated` from the [Faculty of Computers & Informatics](https://fips.unsa.edu.pe/ingenieriadesistemas/) at [National University of Saint Augustine](https://www.unsa.edu.pe/)
-- :computer: I am a competitive programmer at `Leetcode`
-- I like JavaScript
+- :computer: I like `JavaScript`
 
 ## 🚀 What I'm Up To
 
